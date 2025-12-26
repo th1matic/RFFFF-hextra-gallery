@@ -1,6 +1,6 @@
 # Configuration
 baseURL: "https://example.com/"
-title: "莎莎语录"
+title: "RFFFF语录"
 
 enableRobotsTXT: true
 # Parse Git commit
@@ -62,8 +62,8 @@ params:
     displayTitle: true
     displayLogo: true
     logo:
-      path: images/网站图片.jpg
-      dark: images/网站图片.jpg
+      path: images/网站图片.jpeg
+      dark: images/网站图片.jpeg
       width: 40
       height: 40
       link: /
